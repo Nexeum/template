@@ -1,0 +1,32 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/*": ["./src/*"]
+        },
+        "experimentalDecorators": true,
+        "module": "amd",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "target": "es5",
+        "rootDir": "src/",
+        "outDir": "dist/",
+        "jsx": "react",
+        "resolveJsonModule": true,
+        "lib": [
+          "es5",
+          "es6",
+          "dom",
+          "es2015.promise",
+          "es2019"
+        ],
+        "types": [
+            "react",
+            "node"
+        ],
+        "esModuleInterop": true
+    }
+}
