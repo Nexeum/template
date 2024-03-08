@@ -2,9 +2,9 @@
     "manifestVersion": 1.0,
     "id": "template",
     "publisher": "template",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "public": true,
-    "name": "template",
+    "name": "template-azure-test",
     "description": "template",
     "categories": [
         "Azure Boards"
