@@ -1,11 +1,11 @@
 {
     "manifestVersion": 1.0,
-    "id": "Performance",
-    "publisher": "Performance",
+    "id": "template",
+    "publisher": "template",
     "version": "1.0.0",
     "public": true,
-    "name": "Checklist Performance",
-    "description": "Extension to assess the need for performance testing",
+    "name": "template",
+    "description": "template",
     "categories": [
         "Azure Boards"
     ],
