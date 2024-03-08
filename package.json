@@ -1,7 +1,7 @@
 {
-  "name": "template-example-azure",
+  "name": "template",
   "version": "1.0.0",
-  "description": "template azure",
+  "description": "template",
   "keywords": [
     "extensions",
     "Azure DevOps",

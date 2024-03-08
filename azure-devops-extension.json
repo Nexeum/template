@@ -1,10 +1,10 @@
 {
     "manifestVersion": 1.0,
-    "id": "template",
+    "id": "template-azure-test-ingsw",
     "publisher": "template",
     "version": "1.0.1",
     "public": true,
-    "name": "template-azure-test",
+    "name": "template",
     "description": "template",
     "categories": [
         "Azure Boards"
